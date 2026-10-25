@@ -22,4 +22,3 @@ __pycache__/
 Thumbs.db  # Windows
 .DS_Store  # macOS
 tmp_data.txt
-.gitignore
